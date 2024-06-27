@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.13)  16 JUN 2024 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.20)  27 JUN 2024 08:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -886,8 +886,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/Felix Gomez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Prog
-ram Files/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+{C:/Users/FelixGomez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Progr
+am Files/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 (main-experience.aux)
  ***********
 LaTeX2e <2024-06-01>
@@ -895,10 +895,10 @@ L3 programming layer <2024-05-08>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 28655 strings out of 473899
- 726292 string characters out of 5735796
+ 28656 strings out of 473899
+ 726438 string characters out of 5735801
  1931893 words of memory out of 5000000
- 51014 multiletter control sequences out of 15000+600000
+ 51015 multiletter control sequences out of 15000+600000
  570573 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,7n,107p,728b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -908,7 +908,7 @@ eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/cm-super/sfrm1000
 .pfb>
-Output written on main-experience.pdf (1 page, 62967 bytes).
+Output written on main-experience.pdf (1 page, 62767 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
